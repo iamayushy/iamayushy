@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Ayush Yadav here.</h1>
 <h3 align="center"> A Computer Geek  👨‍💻</h3>
-<h3 align="center"> A Frontend Developer 👨</h3>
-<h3 align="center"> An android fanboy.</h3>
+<h3 align="center"> A Frontend Developer, who loves to play with javascript and react.</h3>
+
 
 
 <p align="center">
