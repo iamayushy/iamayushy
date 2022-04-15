@@ -25,11 +25,15 @@
   
 
 
-   <img alt="Srikanta Banerjee's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamayushy&theme=react&hide_border=true&bg_color=0D1117" />
+   <img alt="ayush bhai streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamayushy&theme=react&hide_border=true&bg_color=0D1117" />
+  
     
 
 
 </p>
+<p align="center">
+                 <img alt = "ayushbhai toplang" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamayushy&layout=compact&theme=react&hide_border=true&bg_color=#000424"/>
+                 </p>
 
 
 ---
