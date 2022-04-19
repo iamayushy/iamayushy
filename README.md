@@ -44,7 +44,7 @@
   
   <p align="center">
     <a href="mailto:ayushhuns@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-    <a href="https://in.linkedin.com/in/iamayushy"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://in.linkedin.com/in/ayushbbm"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    
   
 </p>
@@ -55,4 +55,4 @@
   <br/>
   <br/>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamayushy&label=Profile%20views&color=0e75b6&style=flat" alt="srikanta30" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamayushy&label=Profile%20views&color=0e75b6&style=flat" alt="ayush" /> </p>
