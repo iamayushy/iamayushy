@@ -50,8 +50,6 @@
 </p>
 <p align="center">
   Feel Free To Contact Me 😊
-  <br />
-  Also, you can ⭐ or fork the repositories if you want to add a new feature or improve them.
   <br/>
   <br/>
 </p>
