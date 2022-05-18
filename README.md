@@ -31,9 +31,7 @@
 
 
 </p>
-<p align="center">
-                 <img alt = "ayushbhai toplang" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamayushy&layout=compact&theme=react&hide_border=true&bg_color=#000424"/>
-                 </p>
+
 
 
 ---
