@@ -36,7 +36,7 @@
  
 
 
-  <h3 align="center">Want To Get In Touch? Reach Out To Me On 👇:</h3>
+  <h3 align="center">Want To Get In Touch? Reach Out To Me On 😁:</h3>
   
   <p align="center">
     <a href="mailto:ayushhuns@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
