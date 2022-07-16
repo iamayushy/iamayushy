@@ -22,7 +22,7 @@
 
 <h3 align="center"> GitHub Stats 📈:</h3>
 <p align="center">
-     <img alt="ayush bhai streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamayushy&theme=react&hide_border=true&bg_color=0D1117" />
+     <img alt="ayush streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=iamayushy&theme=react&hide_border=true&bg_color=0D1117" />
  </p>
 
 <p align="center">
