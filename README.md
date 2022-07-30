@@ -28,7 +28,7 @@
 <p align="center">
 
 <a href="https://github.com/iamayushy">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamayushy&show_icons=true&&theme=react&hide_border=true&bg_color=0D1117"&include_all_commits=false&count_private=true&locale=en"/>&nbsp;  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamayushy&layout=compact&langs_count=8&&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamayushy&show_icons=true&&theme=react&hide_border=true&bg_color=0D1117"&include_all_commits=true&count_private=true&locale=en"/>&nbsp;  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamayushy&layout=compact&langs_count=8&&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 
 <h3 > GitHub graph 📊:</h3>
