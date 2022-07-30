@@ -33,7 +33,7 @@
 
 <h3 > GitHub graph 📊:</h3>
 
- <a href="https://github.com/anil843324/github-readme-activity-graph"><img alt="ayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamayushy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ <a href="https://github.com/iamayushy/github-readme-activity-graph"><img alt="ayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamayushy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 
