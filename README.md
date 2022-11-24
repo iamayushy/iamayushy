@@ -7,7 +7,7 @@
 
 
 <p align="center">
--   💻 I’m a a developer who loves both world of mobile and web development <br/>
+-   💻 I’m a developer who loves both world of mobile and web development <br/>
 -   🌱 I love to code, build things & solve problems <br/>
 -   🤝 I am open to collaborate on any project that is impactful and makes the world a better place <br/>
 -   ⚡ I read articles about history and tech articles for future <br/>
