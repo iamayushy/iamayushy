@@ -8,10 +8,14 @@
 
 ---
 
-## 🚀 Currently building: Atlair
+## 🚀 Currently building: [Atlair](https://atlair.cloud)
 
-**Atlair** is what I'm building right now, and most of my daily commits go into it.
+**[Atlair](https://atlair.cloud)** is what I'm building right now, and most of my daily commits go into it.
 Follow along — it ships a little more every day.
+
+<p align="center">
+  <a href="https://atlair.cloud"><img src="https://img.shields.io/badge/Visit-atlair.cloud-58A6FF?style=for-the-badge&logo=icloud&logoColor=white" alt="Visit atlair.cloud" /></a>
+</p>
 
 ---
 
@@ -45,7 +49,7 @@ Small daily commits compound into big things. Here's the receipt:
 ## 👨‍💻 About me
 
 - 🤖 **Full stack AI developer** — from model integration and backend to polished UI
-- 🚀 Building **Atlair**
+- 🚀 Building **[Atlair](https://atlair.cloud)**
 - 📅 **Daily committer** — consistency over intensity, every day
 - 📚 Read about history and tech to understand where we came from and where we're going
 - 🤝 Open to collaborating on impactful projects — reach out!
