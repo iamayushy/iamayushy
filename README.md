@@ -10,6 +10,10 @@
 
 ## 🚀 Currently building: [Atlair](https://atlair.cloud)
 
+<p align="center">
+  <a href="https://atlair.cloud"><img src="https://atlair.cloud/brand/atlair-mark.png" alt="Atlair logo" width="96" /></a>
+</p>
+
 **[Atlair](https://atlair.cloud)** is what I'm building right now, and most of my daily commits go into it.
 Follow along — it ships a little more every day.
 
