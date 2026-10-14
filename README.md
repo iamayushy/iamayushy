@@ -44,7 +44,10 @@ Small daily commits compound into big things. Here's the receipt:
 
 <br/>
 
-<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushy&theme=tokyo-night&hide_border=true&area=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <img width="100%" alt="3D contribution graph" src="./profile-3d-contrib/profile-green-animate.svg" />
+</picture>
 
 </div>
 
@@ -67,7 +70,7 @@ Small daily commits compound into big things. Here's the receipt:
 ## 📈 Stats
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iamayushy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iamayushy&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamayushy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
