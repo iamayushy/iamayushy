@@ -1,10 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ayush+%F0%9F%91%8B;Frontend+Developer+%E2%9A%9B%EF%B8%8F;I+commit+code+every+single+day+%F0%9F%94%A5;Don't+break+the+chain." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ayush+%F0%9F%91%8B;Full+Stack+AI+Developer+%F0%9F%A4%96;Building+Atlair+%F0%9F%9A%80;I+commit+code+every+single+day+%F0%9F%94%A5;Don't+break+the+chain." alt="Typing intro" />
 
-**I build clean, fast user interfaces with JavaScript & React — and I ship something every day.**
+**Full stack AI developer — I build AI-powered products end to end, and I ship something every day.**
 
 </div>
+
+---
+
+## 🚀 Currently building: Atlair
+
+**Atlair** is what I'm building right now, and most of my daily commits go into it.
+Follow along — it ships a little more every day.
 
 ---
 
@@ -37,8 +44,8 @@ Small daily commits compound into big things. Here's the receipt:
 
 ## 👨‍💻 About me
 
-- ⚛️ Frontend developer who loves building **pixel-perfect, accessible UIs**
-- 📱 Build Android apps for fun on the side
+- 🤖 **Full stack AI developer** — from model integration and backend to polished UI
+- 🚀 Building **Atlair**
 - 📅 **Daily committer** — consistency over intensity, every day
 - 📚 Read about history and tech to understand where we came from and where we're going
 - 🤝 Open to collaborating on impactful projects — reach out!
@@ -46,7 +53,7 @@ Small daily commits compound into big things. Here's the receipt:
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,styledcomponents,tailwind,nodejs,androidstudio,git,github,vercel,netlify,vscode&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,nextjs,react,tailwind,postgres,docker,git,github,vercel,vscode&perline=7" alt="Tech stack" />
 </p>
 
 ## 📈 Stats
