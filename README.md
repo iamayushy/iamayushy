@@ -1,58 +1,81 @@
-<h1 align="center">Hi, Ayush Yadav here</h1>
-<h3 align="center"> A Computer Geek  👨‍💻</h3>
-<h3 align="center"> A Frontend Developer, who loves to play with javascript and react.</h3>
-<p align="center">Web Developer who loves to build perfect user interface and sometimes, 
-  I spend time to make android apps for fun.</p>
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Ayush+%F0%9F%91%8B;Full+Stack+AI+Developer+%F0%9F%A4%96;Building+Atlair+%F0%9F%9A%80;I+commit+code+every+single+day+%F0%9F%94%A5;Don't+break+the+chain." alt="Typing intro" />
 
+**Full stack AI developer — I build AI-powered products end to end, and I ship something every day.**
 
-<p align="center">
--   💻 I’m a developer who loves both world of mobile and web development <br/>
--   🌱 I love to code, build things & solve problems <br/>
--   🤝 I am open to collaborate on any project that is impactful and makes the world a better place <br/>
--   ⚡ I read articles about history and tech articles for future <br/>
-</p>
-
-<h3 align="center">My Tools & Tech Stack 🛠️:</h3>
-<p align="center"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux&logoColor=white">   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"><img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> </p>
+</div>
 
 ---
 
+## 🚀 Currently building: [Atlair](https://atlair.cloud)
 
-
-<h3 align="center"> GitHub Stats 📈:</h3>
-<p align="center">
-     <img alt="ayush streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=iamayushy&theme=react&hide_border=true&bg_color=0D1117" />
- </p>
+**[Atlair](https://atlair.cloud)** is what I'm building right now, and most of my daily commits go into it.
+Follow along — it ships a little more every day.
 
 <p align="center">
-
-<a href="https://github.com/iamayushy">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamayushy&show_icons=true&&theme=react&hide_border=true&bg_color=0D1117"&include_all_commits=true&count_private=true&locale=en"/>&nbsp;  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamayushy&layout=compact&langs_count=8&&theme=react&hide_border=true&bg_color=0D1117"/>
-</a>
-
-<h3 > GitHub graph 📊:</h3>
-
- <a href="https://github.com/iamayushy/github-readme-activity-graph"><img alt="ayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamayushy&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://atlair.cloud"><img src="https://img.shields.io/badge/Visit-atlair.cloud-58A6FF?style=for-the-badge&logo=icloud&logoColor=white" alt="Visit atlair.cloud" /></a>
 </p>
-
-
 
 ---
- 
 
+## 🔥 The streak is the point
 
-  <h3 align="center">Want To Get In Touch? Reach Out To Me On 😁:</h3>
-  
-  <p align="center">
-    <a href="mailto:ayushhuns@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-    <a href="https://in.linkedin.com/in/ayushbbm"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   
-  
-</p>
+I don't wait for motivation. I write and commit code **every single day** — features, fixes, experiments, notes.
+Small daily commits compound into big things. Here's the receipt:
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=iamayushy&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img alt="Ayush's daily commit streak" src="https://streak-stats.demolab.com?user=iamayushy&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamayushy/iamayushy/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/iamayushy/iamayushy/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+
+<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iamayushy&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 👨‍💻 About me
+
+- 🤖 **Full stack AI developer** — from model integration and backend to polished UI
+- 🚀 Building **[Atlair](https://atlair.cloud)**
+- 📅 **Daily committer** — consistency over intensity, every day
+- 📚 Read about history and tech to understand where we came from and where we're going
+- 🤝 Open to collaborating on impactful projects — reach out!
+
+## 🛠️ Tech stack
+
 <p align="center">
-  Feel Free To Contact Me 😁
-  <br/>
-  <br/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,nextjs,react,tailwind,postgres,docker,git,github,vercel,vscode&perline=7" alt="Tech stack" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamayushy&label=Profile%20views&color=0e75b6&style=flat" alt="ayush" /> </p>
+
+## 📈 Stats
+
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=iamayushy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamayushy&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+
+### 📫 Let's talk
+
+<a href="mailto:ayushhuns@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://in.linkedin.com/in/ayushbbm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<sub>⭐ Come back tomorrow — there'll be a new commit.</sub>
+
+</div>
